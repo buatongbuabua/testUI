@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignment02</string>
+    <string name="buttonFB">Button</string>
+    <string name="buttonIOS">Button</string>
+    <string name="web_developer1">Web Developer</string>
+    <string name="sign_in_with_ios1">Sign in with IOS</string>
+    <string name="sign_in_with_facebook1">Sign in with Facebook</string>
+    <string name="copyrigth">2022 all rights reserved</string>
+    <string name="todo">TODO</string>
+</resources>
